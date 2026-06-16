@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pnguin.Tests/Pnguin.Tests.csproj" />
+  <Project Path="Pnguin/Pnguin.csproj" />
+</Solution>
