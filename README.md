@@ -16,6 +16,6 @@ await Png.WriteAsync(image, stream);
 
 # Core types
 
-`Raster` defines the image format understood by Pnguin. This represents a bitmap image made of True Color with alpha (RGBA) pixels. The `TrueColour` class uses 1 byte per channel.
+`Raster` defines the image format understood by Pnguin. This represents a bitmap image made of True Color with alpha (RGBA) pixels. The `TrueColour` type uses 1 byte per channel.
 
 Convert a `Raster` to a PNG image by writing it to a stream with `Png.WriteAsync()`.
